@@ -1,0 +1,1 @@
+This is a sample file to tell you about mainframes. Mainframe are computer servers that host mission critical business applications in a centralized infrastructure. Reliability and Resiliency are the keywords when it comes to mainframes.
